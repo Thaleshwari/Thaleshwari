@@ -162,15 +162,13 @@ React + Spring Boot + Gemini API
 
 # 📫 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [your-email@example.com](mailto:thaleshwari2005@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+💼 LinkedIn: [https://linkedin.com/in/](https://www.linkedin.com/in/thaleshwari2005/
 
-🌐 Portfolio: https://YOUR_PORTFOLIO
+💻 LeetCode: [https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/thalesh_2005/)
 
-💻 LeetCode: https://leetcode.com/YOUR_USERNAME
-
-🐙 GitHub: https://github.com/YOUR_USERNAME
+🐙 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Thaleshwari/Thaleshwari)
 
 ---
 
