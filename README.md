@@ -6,13 +6,10 @@
 <p align="center">
   <img src="assets/divider.svg" alt="Divider" width="100%" />
 
-  <img src="assets/banner.svg" alt="Thaleshwari J Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%" />
 
 </p>
+
+
 
 # ✨ "Code. Learn. Build. Repeat." 🚀
 
