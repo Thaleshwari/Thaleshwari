@@ -6,11 +6,11 @@
 <p align="center">
   <img src="assets/divider.svg" alt="Divider" width="100%" />
 
-  <img src="./banner.svg" alt="Thaleshwari J Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Thaleshwari J Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./divider.svg" alt="Divider" width="100%" />
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
 
 </p>
 
@@ -35,7 +35,7 @@
 </table>
 
 <p align="center">
-  <img src="./divider.svg" alt="Divider" width="100%" />
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
 # 🚀 Tech Stack
@@ -60,7 +60,7 @@
 </table>
 
 <p align="center">
-  <img src="./divider.svg" alt="Divider" width="100%" />
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
 # 🏆 Featured Projects
@@ -111,7 +111,7 @@
 </table>
 
 <p align="center">
-  <img src="./divider.svg" alt="Divider" width="100%" />
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
 # 📈 GitHub Stats
@@ -126,7 +126,7 @@
 </p>
 
 <p align="center">
-  <img src="./divider.svg" alt="Divider" width="100%" />
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
 # 📫 Connect With Me
@@ -147,7 +147,7 @@
 </p>
 
 <p align="center">
-  <img src="./divider.svg" alt="Divider" width="100%" />
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
 <p align="center">
