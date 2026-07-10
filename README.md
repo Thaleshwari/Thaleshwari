@@ -1,9 +1,17 @@
 <p align="center">
+<<<<<<< HEAD
   <img src="assets/banner.svg" alt="Thaleshwari J Banner" width="100%" />
 </p>
 
 <p align="center">
   <img src="assets/divider.svg" alt="Divider" width="100%" />
+=======
+  <img src="./banner.svg" alt="Thaleshwari J Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./divider.svg" alt="Divider" width="100%" />
+>>>>>>> 965fa8bb6bec57ad6c6f14df55102820cf58887f
 </p>
 
 # ✨ "Code. Learn. Build. Repeat." 🚀
