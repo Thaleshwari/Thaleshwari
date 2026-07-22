@@ -26,7 +26,7 @@
       <p>🧠 Solved <b>300+ DSA Problems</b> on LeetCode &amp; GeeksforGeeks.</p>
       <p>🏅 <b>NPTEL Java:</b> Programming in Java (Gold + Elite Medalist).</p>
       <p>🏃 <b>Athletic Excellence:</b> State-Level Athlete in 800m &amp; 1500m events.</p>
-      <p>💡 <b>Interests:</b> Clean Architecture, REST APIs, and Machine Learning integrations.</p>
+      <p>💡 <b>Interests:</b> Clean Architecture, REST APIs, and AI integrations.</p>
     </td>
   </tr>
 </table>
@@ -68,10 +68,10 @@
       <h3>🤖 AI Navigator</h3>
       <p>Discover, compare and explore AI tools using intelligent search, category filters, recommendations and authentication.</p>
       <p>
+       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini%20API-8E75C2?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -90,9 +90,10 @@
       <h3>⚽ SportsHub</h3>
       <p>Tournament Management Platform featuring team registration, match scheduling, leaderboard, admin and player dashboards.</p>
       <p>
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
